@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MoSxkwc_)
 # Coding Raspberry Pi Pico
 
 ## Objectives
@@ -39,7 +40,8 @@ Complete [switch_mode.py](/switch_mode.py) and use a button to switch an LED's w
 ### 2 (10%) Circuit Picture
 Upload a picture of your actual circuit and display it below 👇
 
-![wiring_pic](wiring.png)
+![wiring](https://github.com/user-attachments/assets/06489d22-b783-4357-a270-905853ff24b3)
+
 
 > [!WARNING]
 > The circuit picture has to be clear about Pico's GPIO pins connection with the LED and the button.
